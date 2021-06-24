@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oagml
 - 👀 I’m interested in embedded systems and artificial intelligence
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on exploring new data and deep learning models
 - 📫 How to reach me
 
