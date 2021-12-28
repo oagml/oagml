@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @oagml
-- 👀 I’m interested in embedded systems and artificial intelligence
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on exploring new data and deep learning models
-- 📫 How to reach me
+- 👋 Hiya fellas
+- 👀 I’m interested in python and computer science, check out some of my projects.
 
 <!---
 oagml/oagml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
